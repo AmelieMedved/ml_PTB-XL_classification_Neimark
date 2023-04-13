@@ -31,3 +31,7 @@ package links:
 - https://seaborn.pydata.org/
 
 - https://matplotlib.org/
+
+- [tsaug &mdash; tsaug 0.2.1 documentation](https://tsaug.readthedocs.io/en/stable/)
+
+- 

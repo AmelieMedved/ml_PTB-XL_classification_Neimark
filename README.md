@@ -27,3 +27,7 @@ package links:
 - https://wfdb.io/ [wfdb &#8212; wfdb &#34;4.1.0&#34; documentation](https://wfdb.readthedocs.io/en/latest/index.html) [wfdb · PyPI](https://pypi.org/project/wfdb/)
 
 - [pmdarima: ARIMA estimators for Python &mdash; pmdarima 2.0.3 documentation](https://alkaline-ml.com/pmdarima/) [pmdarima · PyPI](https://pypi.org/project/pmdarima/)
+
+- https://seaborn.pydata.org/
+
+- https://matplotlib.org/

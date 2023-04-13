@@ -23,3 +23,7 @@ package links:
 - [scikit-learn: machine learning in Python &mdash; scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/index.html)
 
 - https://tqdm.github.io/
+
+- https://wfdb.io/ [wfdb &#8212; wfdb &#34;4.1.0&#34; documentation](https://wfdb.readthedocs.io/en/latest/index.html) [wfdb · PyPI](https://pypi.org/project/wfdb/)
+
+- [pmdarima: ARIMA estimators for Python &mdash; pmdarima 2.0.3 documentation](https://alkaline-ml.com/pmdarima/) [pmdarima · PyPI](https://pypi.org/project/pmdarima/)
